@@ -1,0 +1,11 @@
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/nbproject/project.xml
+/nbproject/project.properties
+/nbproject/build-impl.xml
+/nbproject/genfiles.properties
+/build.xml
